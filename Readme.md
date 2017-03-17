@@ -1,3 +1,3 @@
 # ciencia_compu1
 
-Manuel Eduardo
+Manuel Eduardo Alvarez Sanchez
