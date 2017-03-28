@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1480650248 source:c:\users\win 8\documents\c\ejmplos\j1.cpp
+	"j1.h"
+	<iostream>
+
+1480651114 source:c:\users\win 8\documents\c\ejmplos\main.cpp
+	<iostream>
+	"j1.h"
+
+1480649921 c:\users\win 8\documents\c\ejmplos\j1.h
+
